@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wcD8F8yRYfTUNVC/TQpqKCCISj249qmjm29FE/nIUw6gwUWrqI9N4l5/sDjC6j2/5wuVR8t57VAzDBCztCzXQg==",
+  "success": true,
+  "projectFilePath": "/home/nelite/RiderProjects/NYSS/NotebookApp/NotebookApp.csproj",
+  "expectedPackageFiles": [
+    "/home/nelite/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
